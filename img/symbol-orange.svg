@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="32"
+     height="32"
+     viewBox="0 0 32 32"
+     role="img"
+     aria-labelledby="symbol-title">
+  <title id="symbol-title">Temufy Rally symbol</title>
+  <g fill="#FB7701" transform="rotate(15 16 16)">
+    <rect x="12" y="3" width="8" height="17" rx="4"/>
+    <rect x="12" y="3" width="8" height="17" rx="4"
+          transform="rotate(120 16 16)"/>
+    <rect x="12" y="3" width="8" height="17" rx="4"
+          transform="rotate(240 16 16)"/>
+  </g>
+</svg>
