@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+<title id="title">Product review decisions</title><desc id="desc">Products are classed A to D, then the written review determines whether each goes as is, needs a different offer, or stays off Temu.</desc>
+<defs><marker id="arrow" viewBox="0 0 8 8" refX="8" refY="4" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#24212B"/></marker></defs>
+<g fill="none" stroke="#24212B" stroke-width="2"><path d="M160 160H208" marker-end="url(#arrow)"/><path d="M528 160H600V48H672" marker-end="url(#arrow)"/><path d="M600 160H672" marker-end="url(#arrow)"/><path d="M600 160V272H672" marker-end="url(#arrow)"/></g>
+<g fill="#fff" stroke="#24212B"><rect x="0.5" y="120.5" width="159" height="79" rx="12"/><rect x="208.5" y="96.5" width="319" height="127" rx="12"/><rect x="672.5" y="16.5" width="287" height="63" rx="12"/><rect x="672.5" y="128.5" width="287" height="63" rx="12"/><rect x="672.5" y="240.5" width="287" height="63" rx="12"/></g>
+<g fill="#FB7701"><rect x="248" y="160" width="40" height="40" rx="5"/><rect x="304" y="160" width="40" height="40" rx="5"/><rect x="360" y="160" width="40" height="40" rx="5"/><rect x="416" y="160" width="40" height="40" rx="5"/></g>
+<g fill="#24212B" font-family="DM Sans, sans-serif" font-size="18" text-anchor="middle"><text x="80" y="166">Products</text><text x="368" y="136">Classed A to D</text><text x="268" y="187">A</text><text x="324" y="187">B</text><text x="380" y="187">C</text><text x="436" y="187">D</text><text x="816" y="55">Go as is</text><text x="816" y="167">Different offer</text><text x="816" y="279">Stays off</text></g>
+</svg>

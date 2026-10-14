@@ -1,0 +1,56 @@
+{
+  "captionPrefix": "Temu Seller Center, Australian account, September 2026. Teaching example, not a US result.",
+  "captureMonthConfirmed": false,
+  "figures": {
+    "registration": {
+      "subject": "Registration walkthrough",
+      "asset": null,
+      "crop": null,
+      "maxWidth": 488,
+      "alt": "Australian Seller Center registration document checklist and fields.",
+      "captionSuffix": "Registration walkthrough.",
+      "permission": "pending",
+      "missing": true
+    },
+    "academy": {
+      "subject": "Seller Academy course map",
+      "asset": "img/seller-academy-courses.webp",
+      "crop": [499, 475, 916, 335],
+      "maxWidth": 488,
+      "alt": "Seller Academy course categories and registration lessons in an Australian account.",
+      "captionSuffix": "Seller Academy course map.",
+      "permission": "pending",
+      "missing": false
+    },
+    "bulk": {
+      "subject": "Bulk product upload lesson",
+      "asset": "img/bulk-product-upload.webp",
+      "crop": [264, 48, 562, 354],
+      "maxWidth": 488,
+      "alt": "Seller Academy lesson showing the first bulk product upload template step.",
+      "captionSuffix": "Bulk product upload lesson.",
+      "permission": "pending",
+      "missing": false
+    },
+    "gmv": {
+      "subject": "GMV Booster rules",
+      "asset": null,
+      "crop": null,
+      "maxWidth": 488,
+      "alt": "Australian Seller Center GMV Booster participation rules and conditions.",
+      "captionSuffix": "GMV Booster rules.",
+      "permission": "pending",
+      "missing": true
+    },
+    "settlement": {
+      "subject": "Illustrative settlement layout. Amounts redacted",
+      "asset": "img/settlement-redacted.webp",
+      "crop": [492, 226, 410, 676],
+      "maxWidth": 280,
+      "alt": "Australian order settlement showing sales proceeds and customer payment categories, with amounts redacted.",
+      "captionSuffix": "Illustrative settlement layout. Amounts redacted.",
+      "permission": "pending",
+      "missing": false
+    }
+  }
+}
